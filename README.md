@@ -1,3 +1,4 @@
+```md
 # 💫 About Me:
 
 ## Hello, I'm Cahyadi Prasetyo
@@ -14,47 +15,47 @@ I have worked on various application development projects, both individually and
 ---
 
 ## 🌐 Contact Me:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cahyadi_p24) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CahyadiPrasetyo) 
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ChdPrstyo) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Chdprasetyo) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chdprasetyo@gmail.com)
+[![Instagram](assets/instagram.png)](https://instagram.com/cahyadi_p24) 
+[![LinkedIn](assets/linkedin.png)](https://linkedin.com/in/CahyadiPrasetyo) 
+[![TikTok](assets/tiktok.png)](https://tiktok.com/@ChdPrstyo) 
+[![YouTube](assets/youtube.png)](https://youtube.com/@Chdprasetyo) 
+[![Email](assets/email.png)](mailto:chdprasetyo@gmail.com)
 
 ---
 
 ## 💻 Languages & Tools:
 
 ### 🚀 Programming Languages:
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](assets/c.png) 
+![C++](assets/cpp.png) 
+![Java](assets/java.png) 
+![Python](assets/python.png) 
+![PHP](assets/php.png) 
+![R](assets/r.png)
 
 ### 🌐 Web Development:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](assets/html5.png) 
+![CSS3](assets/css3.png) 
+![JavaScript](assets/javascript.png) 
+![Bootstrap](assets/bootstrap.png)
 
 ### 🛢️ Database & Cloud:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](assets/mysql.png)
 
 ### 🎨 UI/UX & Tools:
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](assets/figma.png)
+![GitHub](assets/github.png)
 
 ---
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=cahyadi240105&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=cahyadi240105&theme=highcontrast&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cahyadi240105&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=cahyadi240105&theme=react&hide_border=true&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=cahyadi240105&theme=react&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cahyadi240105&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 📈 GitHub Activity Graph:
-![](https://github-readme-activity-graph.vercel.app/graph?username=cahyadi240105&theme=react-dark&hide_border=true&area=true&color=00E676)
+![](https://github-readme-activity-graph.vercel.app/graph?username=cahyadi240105&theme=react&hide_border=true&area=true&color=61dafb)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cahyadi240105&icon=0&color=0)](https://visitcount.itsvg.in)
