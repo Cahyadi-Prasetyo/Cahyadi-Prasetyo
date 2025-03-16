@@ -2,7 +2,7 @@
 Hello I'M Cahyadi Prasetyo<br>👯 I’m looking to collaborate on: Web development, UI/UX projects, or database management<br>🌱 I’m currently learning: Full-stack development, API integrations, and cloud computing<br><br>💬 About Me : <br>A student at Universitas Maritim Raja Ali Haji (UMRAH) with a passion for technology, programming, and mentoring. My educational background at SMKN 1 Bintan Timur, majoring in Software Engineering (RPL), has equipped me with a strong foundation in software development. I have expertise in web programming, UI/UX design, database systems, and UML modeling for system architecture. I have worked on various application development projects, both individually and in teams, focusing on innovative and efficient solutions.<br><br>⚡ Fun Fact : <br>Outside of coding, I enjoy reading comics as a way to relax and explore new stories. I’m also passionate about motorcycle modifications—because, to me, redesigning engines and writing code share the same challenges: precision, problem-solving, and creativity!
 
 
-## 🌐 Socials:
+## 🌐 Contact Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cahyadi_p24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/CahyadiPrasetyo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ChdPrstyo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Chdprasetyo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chdprasetyo@gmail.com) 
 
 # 💻 Languanges and Tools :
