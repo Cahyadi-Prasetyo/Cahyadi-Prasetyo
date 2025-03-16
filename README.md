@@ -55,7 +55,3 @@ I have worked on various application development projects, both individually and
 
 ### 📈 GitHub Activity Graph:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=cahyadi240105&theme=react&hide_border=true&area=true&color=61dafb)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-```
-
