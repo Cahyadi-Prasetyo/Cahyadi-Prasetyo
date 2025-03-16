@@ -14,36 +14,36 @@ I have worked on various application development projects, both individually and
 ---
 
 ## 🌐 Contact Me:
-[![Instagram](assets/instagram.png)](https://instagram.com/cahyadi_p24) 
-[![LinkedIn](assets/linkedin.png)](https://linkedin.com/in/CahyadiPrasetyo) 
-[![TikTok](assets/tiktok.png)](https://tiktok.com/@ChdPrstyo) 
-[![YouTube](assets/youtube.png)](https://youtube.com/@Chdprasetyo) 
-[![Email](assets/email.png)](mailto:chdprasetyo@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cahyadi_p24) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/CahyadiPrasetyo) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ChdPrstyo) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Chdprasetyo) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chdprasetyo@gmail.com)
 
 ---
 
 ## 💻 Languages & Tools:
 
 ### 🚀 Programming Languages:
-![C](assets/c.png) 
-![C++](assets/cpp.png) 
-![Java](assets/java.png) 
-![Python](assets/python.png) 
-![PHP](assets/php.png) 
-![R](assets/r.png)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🌐 Web Development:
-![HTML5](assets/html5.png) 
-![CSS3](assets/css3.png) 
-![JavaScript](assets/javascript.png) 
-![Bootstrap](assets/bootstrap.png)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🛢️ Database & Cloud:
-![MySQL](assets/mysql.png)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🎨 UI/UX & Tools:
-![Figma](assets/figma.png)
-![GitHub](assets/github.png)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
