@@ -2,10 +2,10 @@
 
 ## Hello, I'm Cahyadi Prasetyo
 
-👋 A passionate student at Universitas Maritim Raja Ali Haji (UMRAH), with a strong interest in technology, programming, and mentoring. My background in Software Engineering from SMKN 1 Bintan Timur has provided me with a solid foundation in software development, web programming, UI/UX design, database systems, and UML modeling for system architecture.
+👋 A passionate student at Universitas Maritim Raja Ali Haji (UMRAH), with a strong interest in technology, programming, and mentoring. My background in Software Engineering from SMKN 1 Bintan Timur has provided me with a solid foundation in software development, web programming, database systems, and UML modeling for system architecture.
 
 ### 🔍 What I'm Looking For:
-- 👯 Collaborating on Web Development, UI/UX projects, and Database Management.
+- 👯 Collaborating on Web Development,and Database Management.
 - 🌱 Currently learning Full-Stack Development, API Integrations, and Cloud Computing.
 
 ### 💬 More About Me:
@@ -39,10 +39,6 @@ I have worked on various application development projects, both individually and
 
 ### 🛢️ Database & Cloud:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 UI/UX & Tools:
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
