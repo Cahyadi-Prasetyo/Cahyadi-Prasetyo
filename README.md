@@ -9,7 +9,7 @@
 - 🌱 Currently learning Full-Stack Development, API Integrations, and Cloud Computing.
 
 ### 💬 More About Me:
-I have worked on various application development projects, both individually and in teams, focusing on innovative and efficient solutions. Outside of coding, I enjoy reading comics as a way to relax and explore new stories. I'm also passionate about motorcycle modifications—because, to me, redesigning engines and writing code share the same challenges: precision, problem-solving, and creativity.
+I have worked on various application development projects, both individually and in teams, focusing on innovative and efficient solutions. Outside of coding, I enjoy reading comics as a way to relax and explore new stories. I'm also passionate about motorcycle modification because, for me, redesigning engines and writing code share the same challenges: precision, problem solving, and creativity.
 
 ---
 ## 🌐 Connect with me:
