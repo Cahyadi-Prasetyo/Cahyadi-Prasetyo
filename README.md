@@ -40,6 +40,8 @@ I have worked on various application development projects, both individually and
 ### 🛢️ Database & Cloud:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+
+### Tools
 ---
 
 ## 📊 GitHub Stats:
