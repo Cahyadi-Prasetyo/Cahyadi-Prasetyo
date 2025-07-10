@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I'm Cahyadi Prasetyo!
 
-A dedicated **Software Engineering student** at **Universitas Maritim Raja Ali Haji (UMRAH)** with a passion for building **secure, scalable, and intuitive web-based systems**.
+A dedicated **Informatics Engineering student** at **Universitas Maritim Raja Ali Haji (UMRAH)** with a passion for building **secure, scalable, and intuitive web-based systems**.
 
 With a strong foundation from **SMKN 1 Bintan Timur**, I specialize in **full-stack development**, **database management**, and **system architecture** using **UML modeling**. I enjoy turning complex real-world challenges into clean, maintainable code.
 
@@ -44,22 +44,7 @@ With a strong foundation from **SMKN 1 Bintan Timur**, I specialize in **full-st
       <th>Technologies</th>
     </tr>
   </thead>
-  <tbody>
-    <tr>
-      <td><strong>Fullstack</strong></td>
-      <td>
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="40" alt="Laravel" title="Laravel"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Backend</strong></td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="40" alt="Node.js" title="Node.js"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
-      </td>
-    </tr>
+  <tbody> 
     <tr>
       <td><strong>Frontend</strong></td>
       <td>
@@ -69,6 +54,16 @@ With a strong foundation from **SMKN 1 Bintan Timur**, I specialize in **full-st
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap"/>
         <img src="https://vitejs.dev/logo-with-shadow.png" height="40" alt="Vite" title="Vite"/>
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="40" alt="Node.js" title="Node.js"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="40" alt="Laravel" title="Laravel"/>
       </td>
     </tr>
     <tr>
