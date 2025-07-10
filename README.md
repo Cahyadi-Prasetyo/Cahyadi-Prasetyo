@@ -49,7 +49,6 @@ With a strong foundation from **SMKN 1 Bintan Timur**, I specialize in **full-st
       <td><strong>Fullstack</strong></td>
       <td>
         <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="40" alt="Laravel" title="Laravel"/>
-        <img src="https://vitejs.dev/logo-with-shadow.png" height="40" alt="Vite" title="Vite"/>
       </td>
     </tr>
     <tr>
@@ -68,6 +67,7 @@ With a strong foundation from **SMKN 1 Bintan Timur**, I specialize in **full-st
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap"/>
+        <img src="https://vitejs.dev/logo-with-shadow.png" height="40" alt="Vite" title="Vite"/>
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
       </td>
     </tr>
@@ -99,6 +99,14 @@ With a strong foundation from **SMKN 1 Bintan Timur**, I specialize in **full-st
         <img src="https://img.shields.io/badge/ChaCha20--Poly1305-orange?style=flat-square" height="28" alt="ChaCha20-Poly1305"/>
         <img src="https://img.shields.io/badge/SHA3--256-gray?style=flat-square" height="28" alt="SHA3-256"/>
         <img src="https://img.shields.io/badge/Ed25519-purple?style=flat-square" height="28" alt="Ed25519"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Programming</strong></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" title="R"/>
       </td>
     </tr>
     <tr>
