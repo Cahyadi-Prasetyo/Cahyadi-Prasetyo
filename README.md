@@ -25,7 +25,7 @@ With a strong foundation from **SMKN 1 Bintan Timur**, I specialize in **full-st
   <a href="mailto:cahyadi.informatics@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Message-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/cahyadi240105">
+  <a href="https://github.com/Cahyadi-Prasetyo">
     <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://instagram.com/cahyadi_p24">
@@ -35,94 +35,24 @@ With a strong foundation from **SMKN 1 Bintan Timur**, I specialize in **full-st
 
 ---
 
-## 🛠️ Tech Stack
-
-<table>
-  <thead>
-    <tr>
-      <th>Category</th>
-      <th>Technologies</th>
-    </tr>
-  </thead>
-  <tbody> 
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap"/>
-        <img src="https://vitejs.dev/logo-with-shadow.png" height="40" alt="Vite" title="Vite"/>
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Backend</strong></td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="40" alt="Node.js" title="Node.js"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="40" alt="Laravel" title="Laravel"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Database</strong></td>
-      <td>
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="40" alt="MySQL" title="MySQL"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Version Control</strong></td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" style="background-color:white; border-radius:50%; padding:5px;"/>
-      </td>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>IDEs & Tools</strong></td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Security & Protocols</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/AES_GCM-blue?style=flat-square" height="28" alt="AES-GCM"/>
-        <img src="https://img.shields.io/badge/ChaCha20--Poly1305-orange?style=flat-square" height="28" alt="ChaCha20-Poly1305"/>
-        <img src="https://img.shields.io/badge/SHA3--256-gray?style=flat-square" height="28" alt="SHA3-256"/>
-        <img src="https://img.shields.io/badge/Ed25519-purple?style=flat-square" height="28" alt="Ed25519"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Programming</strong></td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" title="R"/>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>OS</strong></td>
-      <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" title="Windows"/>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
+| Category              | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frontend**          | <img src="https://img.icons8.com/color/48/html-5.png" height="40"/> <img src="https://img.icons8.com/color/48/css3.png" height="40"/> <img src="https://img.icons8.com/color/48/javascript.png" height="40"/> <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png" height="40"/> <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png" height="40"/> <img src="https://img.icons8.com/color/48/tailwind_css.png" height="40"/> |
+| **Backend**           | <img src="https://img.icons8.com/?size=100&id=6ELeEzOi1ZbF&format=png" height="40"/> <img src="https://img.icons8.com/color/48/nodejs.png" height="40"/> <img src="https://img.icons8.com/color/48/python.png" height="40"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40"/> <img src="https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png" height="40"/>                                                               |
+| **Database**          | <img src="https://img.icons8.com/fluency/48/mysql-logo.png" height="40"/>                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Version Control**   | <img src="https://img.icons8.com/color/48/git.png" height="40"/> <img src="https://img.icons8.com/?size=100&id=WCL5hPLvhUjQ&format=png&color=FFFFFF" height="40"/>                                                                                                                                                                                                                                                                                                |
+| **IDEs & Tools**      | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/> <img src="https://img.icons8.com/color/48/figma--v1.png" height="40"/>                                                                                                                                                                                                                                                                                                       |
+| **Programming**       | <img src="https://img.icons8.com/color/48/c-programming.png" height="40"/> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" height="40"/> <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png" height="40"/>                                                                                                                                                                                                                     |
+| **Operating Systems** | <img src="https://img.icons8.com/color/48/windows-10.png" height="40"/> <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png" height="40"/>                                                                                                                                                                                                                                                                                                      |
+                                                                                                                                                                                                                                                                                                     
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="justify">
-  <img src="https://github-readme-stats.vercel.app/api?username=cahyadi240105&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cahyadi240105&theme=react&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahyadi240105&theme=react&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cahyadi-Prasetyo&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cahyadi-Prasetyo&theme=react&hide_border=true&layout=compact"/>
 </div>
 
 ---
@@ -130,7 +60,7 @@ With a strong foundation from **SMKN 1 Bintan Timur**, I specialize in **full-st
 ## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cahyadi240105&theme=react-dark&hide_border=true&area=true&radius=10"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cahyadi-Prasetyo&theme=react-dark&hide_border=true&area=true&radius=10"/>
 </div>
 
 ---
