@@ -77,26 +77,6 @@ A robust web-based e-voting system designed for student organization elections. 
 An e-commerce website built with **Laravel and Tailwind CSS** to empower local **maritime SMEs** in Kepulauan Riau. Features include dynamic product carousels, direct contact functionalities, and categorized product listings, aiming to boost local economic potential.
 [Explore the project](https://github.com/cahyadi240105/umkm_maritim.git)
 
-### 📝 E-Tamu – Digital Guestbook Application
-A web-based digital guestbook application developed with **PHP Native and MySQL**. This system efficiently replaces manual guest registration, offering **secure data storage**, admin access for management, and detailed visit history for documentation.
-[Explore the project](https://github.com/cahyadi240105/BukuE-tamu.git)
-
-### 📊 Data Visualization with Python & JavaScript
-A team project focused on **implementing custom data visualization** from Excel files directly into interactive web graphics **without external libraries**. This demonstrates strong foundational skills in data processing and client-side rendering.
-[Explore the project](https://github.com/cahyadi240105/Final-Project.git)
-
-### 🚗🔧 BengKelBot – Vehicle Damage Diagnosis Expert System
-A web-based **expert system** (HTML, CSS, JavaScript, Python) designed to **diagnose vehicle damage** based on user-inputted symptoms. It provides automated repair recommendations, offering a practical tool for workshop environments.
-[Explore the project](https://github.com/cahyadi240105/Bengkel-Bot.git)
-
-### 🔁 TuringValidation – Turing Machine Simulation for Binary String Validation
-An interactive web-based simulation application (JavaScript, HTML, CSS) that **visualizes the step-by-step operation of a Turing machine** in validating binary strings. It's an educational tool to understand theoretical computation principles.
-[Explore the project](https://github.com/cahyadi240105/TuringValidation.git)
-
-### 🗳️ Pilketos – Online Student Council Election System
-A comprehensive web-based platform for **student council elections**, developed as a final academic project. It features secure login for multiple roles (admin, committee, students), voter validation, candidate profiles, and real-time result tabulation.
-[Explore the project](https://github.com/cahyadi240105/PilKetos.git)
-
 ### 🏖️ Website Galeri Pantai Trikora – Bintan
 A simple, responsive gallery website built with **HTML5, CSS3, and JavaScript** to showcase the natural beauty of Trikora Beach. It includes a dynamic photo gallery and a multilingual (Indonesian/English) interface.
 [Explore the project](https://github.com/cahyadi240105/Traveller.git)
