@@ -38,69 +38,79 @@ With a strong foundation from **SMKN 1 Bintan Timur**, I specialize in **full-st
 ## 🛠️ Tech Stack
 
 <table>
-  <tr>
-    <td><strong>Fullstack:</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend:</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend:</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Database:</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Version Control:</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>IDEs & Tools:</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    </td>
-  </tr>
-<!--   <tr>
-    <td><strong>Security:</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=lock&logoColor=white" />
-      <img src="https://img.shields.io/badge/AES%2FGCM-blue?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Ed25519-orange?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/SHA3--256-4b0082?style=for-the-badge" />
-    </td>
-  </tr> -->
-  <tr>
-    <td><strong>Operating Systems:</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Fullstack</strong></td>
+      <td>
+        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="40" alt="Laravel" title="Laravel"/>
+        <img src="https://vitejs.dev/logo-with-shadow.png" height="40" alt="Vite" title="Vite"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Backend</strong></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" height="40" alt="Node.js" title="Node.js"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap"/>
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Database</strong></td>
+      <td>
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="40" alt="MySQL" title="MySQL"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Version Control</strong></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" style="background-color:white; border-radius:50%; padding:5px;"/>
+      </td>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>IDEs & Tools</strong></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Security & Protocols</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/AES_GCM-blue?style=flat-square" height="28" alt="AES-GCM"/>
+        <img src="https://img.shields.io/badge/ChaCha20--Poly1305-orange?style=flat-square" height="28" alt="ChaCha20-Poly1305"/>
+        <img src="https://img.shields.io/badge/SHA3--256-gray?style=flat-square" height="28" alt="SHA3-256"/>
+        <img src="https://img.shields.io/badge/Ed25519-purple?style=flat-square" height="28" alt="Ed25519"/>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>OS</strong></td>
+      <td>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows" title="Windows"/>
+      </td>
+    </tr>
+  </tbody>
 </table>
+
+
 
 ---
 
