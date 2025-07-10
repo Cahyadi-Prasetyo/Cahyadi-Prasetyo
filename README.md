@@ -63,28 +63,6 @@ I've led and contributed to various application development projects, focusing o
 
 ---
 
-## 🚀 Featured Projects:
-
-Here are some of my key projects, showcasing my skills in developing practical and secure web applications:
-
-### 🗳️ PEMIRA-OSMA v2 – Secure Online Student Election System
-A robust web-based e-voting system designed for student organization elections. It incorporates **modern cryptography (AES-GCM/ChaCha20-Poly1305, SHA3-256, Ed25519)** to ensure **security, transparency, and efficiency**, mitigating common vulnerabilities like SQL Injection and XSS.
-[Explore the project](https://github.com/cahyadi240105/pemira-osma-v2.git)
-
-### 🌊 UMKM Maritim Kepulauan Riau – E-commerce Platform
-An e-commerce website built with **Laravel and Tailwind CSS** to empower local **maritime SMEs** in Kepulauan Riau. Features include dynamic product carousels, direct contact functionalities, and categorized product listings, aiming to boost local economic potential.
-[Explore the project](https://github.com/cahyadi240105/umkm_maritim.git)
-
-### 🏖️ Website Galeri Pantai Trikora – Bintan
-A simple, responsive gallery website built with **HTML5, CSS3, and JavaScript** to showcase the natural beauty of Trikora Beach. It includes a dynamic photo gallery and a multilingual (Indonesian/English) interface.
-[Explore the project](https://github.com/cahyadi240105/Traveller.git)
-
-### 🎮 PAA-project-game – Smart Kurir Game (Ongoing)
-An ongoing **team-based project** developing a simple "Smart Courier" game using the **raylib** library, demonstrating foundational skills in game development and collaborative coding practices.
-[Explore the project](https://github.com/cahyadi240105/PAA-project-game.git)
-
----
-
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=cahyadi240105&theme=react&hide_border=true&include_all_commits=true&count_private=false)
