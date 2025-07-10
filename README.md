@@ -19,12 +19,14 @@ I've led and contributed to various application development projects, focusing o
 ## 🌐 Connect with me:
 <div align="center">
 
-  **Profesional**
+  *Profesionally*
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/CahyadiPrasetyo)  
   [![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-red?style=for-the-badge&logo=gmail)](mailto:cahyadi.informatics@gmail.com)  
   [![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Work-black?style=for-the-badge&logo=github)](https://github.com/cahyadi240105)  
 
-  **Daily**
+  *Daily*
+  
   [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Daily%20Life)](https://instagram.com/cahyadi_p24)  
   [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=Tutorials)](https://youtube.com/@Chdprasetyo)  
   [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&label=Tech%20Shorts)](https://tiktok.com/@ChdPrstyo)  
