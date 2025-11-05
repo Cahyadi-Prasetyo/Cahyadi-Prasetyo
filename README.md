@@ -1,71 +1,93 @@
-# 💫 About Me
+<h2 align="left">Hi 👋! My name is Cahyadi Prasetyo</h2>
 
-## 👋 Hello, I'm Cahyadi Prasetyo!
+###
 
-A dedicated **Informatics Engineering student** at **Universitas Maritim Raja Ali Haji (UMRAH)** with a passion for building **secure, scalable, and intuitive web-based systems**.
+<br clear="both">
 
-With a strong foundation from **SMKN 1 Bintan Timur**, I specialize in **full-stack development**, **database management**, and **system architecture** using **UML modeling**. I enjoy turning complex real-world challenges into clean, maintainable code.
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNwYzY0MjdqNWp2ZnJ3M3c3ZGp5dnM2YXd3aTV1bG8yaDdjbnJ3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iSshxtCEHz6eOQWUr3/giphy.gif"  />
 
----
+###
 
-### 🚀 What I'm Focused On
-- 💻 Building **high-performance full-stack web applications**
-- ☁️ Exploring **API integrations**, **cloud deployment**, and **DevOps workflows**
-- 🔐 Diving deeper into **cryptography**, **secure authentication**, and **system design**
-- 🤝 Open to **collaboration or freelance projects** that challenge my skills
+<p align="left">🎓Informatics Engineering Student at Universitas Maritim Raja Ali Haji (UMRAH)<br>💡Passionate about Full-Stack Development, Secure Systems, and API Engineering<br>🚀 Continuously learning and exploring new technologies to craft elegant, scalable web solutions.</p>
 
----
+###
 
-## 🌐 Connect with Me
+<p align="center">🧠 Tech Stack & Tools</p>
 
-<p align="judtify">
-  <a href="https://linkedin.com/in/CahyadiPrasetyo">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:cahyadi.informatics@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Message-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Cahyadi-Prasetyo">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://instagram.com/cahyadi_p24">
-    <img src="https://img.shields.io/badge/Instagram-Daily Life-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+###
 
----
-
-| Category              | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ---------------------| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Frontend**          | <img src="https://img.icons8.com/color/48/html-5.png" height="40"/> <img src="https://img.icons8.com/color/48/css3.png" height="40"/> <img src="https://img.icons8.com/color/48/javascript.png" height="40"/> <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png" height="40"/> <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png" height="40"/> <img src="https://img.icons8.com/color/48/tailwind_css.png" height="40"/> |
-| **Backend**           | <img src="https://img.icons8.com/?size=100&id=6ELeEzOi1ZbF&format=png" height="40"/> <img src="https://img.icons8.com/color/48/nodejs.png" height="40"/> <img src="https://img.icons8.com/color/48/python.png" height="40"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" height="40"/> <img height="40" alt="image" src="https://github.com/user-attachments/assets/3491404c-99d1-442f-8a17-e9941886a4a2" />  |
-| **Fullstack**         | <img height="40" src="https://github.com/user-attachments/assets/6d167440-ab29-4185-aac0-b8523564b6cf" />  <img src="https://img.icons8.com/color/48/javascript.png" height="40"/>  |
-| **Database**          | <img src="https://img.icons8.com/fluency/48/mysql-logo.png" height="40"/>     |
-| **Version Control**   | <img src="https://img.icons8.com/color/48/git.png" height="40"/> <img src="https://img.icons8.com/?size=100&id=WCL5hPLvhUjQ&format=png&color=FFFFFF" height="40"/>        |
-| **IDEs & Tools**      | <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="40"/> <img src="https://img.icons8.com/color/48/figma--v1.png" height="40"/>         |
-| **Programming**       | <img src="https://img.icons8.com/color/48/c-programming.png" height="40"/> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" height="40"/> <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png" height="40"/>      |
-| **Operating Systems** | <img src="https://img.icons8.com/color/48/windows-10.png" height="40"/> <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png" height="40"/>    |
-
-                                                                                                                                                                                                                                                                                                     
-
----
-
-## 📈 GitHub Stats
-
-<div align="justify">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cahyadi-Prasetyo&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cahyadi-Prasetyo&theme=react&hide_border=true&layout=compact"/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
 
----
+###
 
-## 📊 Contribution Activity
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cahyadi-Prasetyo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cahyadi-Prasetyo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Cahyadi-Prasetyo/Cahyadi-Prasetyo/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cahyadi-Prasetyo&theme=react-dark&hide_border=true&area=true&radius=10"/>
+  <img src="https://count.getloli.com/@:Cahyadi-Prasetyo?theme=asoul&padding=7&scale=1&align=bottom&pixelated=1&darkmode=0"  />
 </div>
 
----
-
-> *"Consistency and curiosity are the keys to becoming a great developer."*  
-> – *Cahyadi Prasetyo*
+###
