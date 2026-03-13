@@ -30,7 +30,7 @@ I am an **Informatics Engineering Student** at Universitas Maritim Raja Ali Haji
 ### 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cahyadi-Prasetyo&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=true" alt="Cahyadi's GitHub Stats" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cahyadi-Prasetyo&show_icons=true&theme=radical" alt="Cahyadi's GitHub Stats" height="190" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cahyadi-Prasetyo&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="190" />
 </div>
