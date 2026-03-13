@@ -27,7 +27,6 @@ I am an **Informatics Engineering Student** at Universitas Maritim Raja Ali Haji
 ---
 
 ### 📊 GitHub Insights
-### 📊 GitHub Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cahyadi-Prasetyo&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=555" alt="Stats" height="165" />
